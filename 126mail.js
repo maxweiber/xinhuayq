@@ -45,7 +45,7 @@ var n = 1;
 
 //邮箱地址更新
 //中心
-var zhongxin = ['1539497870@qq.com;394815241@qq.com;86237839@qq.com;316966024@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"[专供]新华每日舆情" + Formatdate + ".doc", '[专供]新华每日舆情'];
+var zhongxin = ['1539497870@qq.com;394815241@qq.com;86237839@qq.com;51834948@qq.com; 316966024@qq.com;51834948@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"[专供]新华每日舆情" + Formatdate + ".doc", '[专供]新华每日舆情'];
 //省直
 var qinghai = ['wanlinpub@hotmail.com;283849490@qq.com;chenkai@xinhua.org', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供)新华每日舆情" + Formatdate + ".doc", '(专供)新华每日舆情'];
 var jiaotong = ['95194014@qq.com;760509109@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供青海省交通运输厅)新华每日舆情" + Formatdate + ".doc", '(专供青海省交通运输厅)新华每日舆情'];
@@ -53,6 +53,8 @@ var minzong = ['40019559@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"
 var qingke = ['yinhuili@263.net;gsm@188.com;wpz8714@163.com;w333@vip.163.com;15297288600@163.com;hzwj200411@126.com;qhxnwh@126.com;yhq9812@163.com;qkjmtb@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供青海互助青稞酒业股份有限公司)新华每日舆情" + Formatdate + ".doc", '(专供青海互助青稞酒业股份有限公司)新华每日舆情'];
 var xikuang = ['185150641@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供西部矿业)新华每日舆情" + Formatdate + ".doc", '(专供西部矿业)新华每日舆情'];
 var nongxin = ['1607922014@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供青海省农村信用社联合社)新华每日舆情" + Formatdate + ".doc", '(专供青海省农村信用社联合社)新华每日舆情'];
+var yihai = ['421981511@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供青海天峻义海能源煤炭经营有限公司)新华每日舆情" + Formatdate + ".doc", '(专供青海天峻义海能源煤炭经营有限公司)新华每日舆情'];
+var guowang = ['liys777@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供国家电网青海省电力公司)新华每日舆情" + Formatdate + ".doc", '(专供国家电网青海省电力公司)新华每日舆情'];
 //西宁
 var chengxi = ['703887188@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供西宁市城西区)新华每日舆情" + Formatdate + ".doc", '(专供西宁市城西区)新华每日舆情'];
 //海东
@@ -65,9 +67,9 @@ var minhe = ['mhxcb2092@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"
 //海西
 var haixi = ['qhhxzmyp-7209@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供海西蒙古族藏族自治州)新华每日舆情" + Formatdate + ".doc", '(专供海西蒙古族藏族自治州)新华每日舆情'];
 var delingha = ['kuangxiangqu_nan@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供德令哈市)新华每日舆情" + Formatdate + ".doc", '(专供德令哈市)新华每日舆情'];
-var geermu = ['460224974@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供格尔木市)新华每日舆情" + Formatdate + ".doc", '(专供格尔木市)新华每日舆情'];
+var geermu = ['460224974@qq.com;2594161888@qq.com;1317104232@qq.com;393182964@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供格尔木市)新华每日舆情" + Formatdate + ".doc", '(专供格尔木市)新华每日舆情'];
 var dulan = ['jiyuan343@126.com;yongan7719@126.com;hongmei630@126.com;shun345@126.com;ning069@126.com;77246329@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供都兰县)新华每日舆情" + Formatdate + ".doc", '(专供都兰县)新华每日舆情'];
-var wulan = ['wulxxcb@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供乌兰县)新华每日舆情" + Formatdate + ".doc", '(专供乌兰县)新华每日舆情'];
+var wulan = ['wlxhyq@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供乌兰县)新华每日舆情" + Formatdate + ".doc", '(专供乌兰县)新华每日舆情'];
 var tianjun = ['523671797@qq.com;zhangshaojun1963@163.com;275044283@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供天峻县)新华每日舆情" + Formatdate + ".doc", '(专供天峻县)新华每日舆情'];
 var gewei = ['gemrmyy@126.com;673914178@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供格尔木市卫生局)新华每日舆情" + Formatdate + ".doc", '(专供格尔木市卫生局)新华每日舆情'];
 var gejiao = ['739459929@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供格尔木市教育局)新华每日舆情" + Formatdate + ".doc", '(专供格尔木市教育局)新华每日舆情'];
@@ -82,11 +84,13 @@ var hainan = ['hnzwyqbgs@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +
 var xinghai = ['305441264@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供兴海县)新华每日舆情" + Formatdate + ".doc", '(专供兴海县)新华每日舆情'];
 var guinan = ['gnnews@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供贵南县)新华每日舆情" + Formatdate + ".doc", '(专供贵南县)新华每日舆情'];
 var tongde = ['hntdxcb@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供同德县)新华每日舆情" + Formatdate + ".doc", '(专供同德县)新华每日舆情'];
-
+var gonghe = ['ghxxcb@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供共和县)新华每日舆情" + Formatdate + ".doc", '(专供共和县)新华每日舆情'];
+var guide = ['gdxwxcb@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供贵德县)新华每日舆情" + Formatdate + ".doc", '(专供贵德县)新华每日舆情'];
 //海北
 var haiyan = ['133691216@qq.com;502361552@qq.com;454216592@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供海晏县)新华每日舆情" + Formatdate + ".doc", '(专供海晏县)新华每日舆情'];
 var menyuan = ['779716631@qq.com;1214947953@qq.com;1623436277@qq.com;2087973987@qq.com;2929535210@qq.com;2770257680@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供门源县)新华每日舆情" + Formatdate + ".doc", '(专供门源县)新华每日舆情'];
 var qilian = ['hxh0444@163.com;lys0891@126.com;lhc303@163.com;2635756156@qq.com;497605231@qq.com;624898090@qq.com;908539583@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供祁连县)新华每日舆情" + Formatdate + ".doc", '(专供祁连县)新华每日舆情'];
+var haibei = ['441450860@qq.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供海北州)新华每日舆情" + Formatdate + ".doc", '(专供海北州)新华每日舆情'];
 //黄南
 var huangnan = ['hnzwxcb@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供黄南藏族自治州)新华每日舆情" + Formatdate + ".doc", '(专供黄南藏族自治州)新华每日舆情'];
 var henan = ['hnxcb_2008@163.com', "D:/" + Formatdate + "/" + "Thinking" + "/" +"(专供河南县)新华每日舆情" + Formatdate + ".doc", '(专供河南县)新华每日舆情'];
@@ -96,14 +100,18 @@ var dari = ['wuweiqinghai@126.com', "D:/" + Formatdate + "/" + "Thinking" + "/" 
 //玉树
 
 //登陆
-casper.start('http://mail.126.com', function() {
-	this.sendKeys('#idInput', '******');
-	this.sendKeys('#pwdInput', '******');
+casper.start('http://email.163.com/');
+casper.then(function() {
+    this.evaluate(function(email, password) {
+		document.querySelector('b[class="ico ico-logo ico-logo-126"]').click();
+        document.querySelector('#userNameIpt').value = email;
+        document.querySelector('#pwdInput').value = password;
+		document.querySelector('button[class="btn btn-login"]').click();
+    }, 'xingchenemail', 'qhfsyq2016');
 	this.echo('*************************  已登陆新华智酷邮件分发系统  *************************' + '\n');
 });
 
 casper.then(function() {
-	this.click('#loginBtn');
 	this.waitForSelector('#_mail_component_57_57');
 });
 
@@ -289,6 +297,60 @@ casper.then(function() {
 casper.wait(100, function() {
 	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + nongxin[2] + '.png');
 	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供青海省农村信用社联合社)……');
+	n = n + 1;
+});
+
+//(专供青海天峻义海能源煤炭经营有限公司)新华每日舆情
+casper.thenOpen('http://mail.126.com/', function() {
+	this.waitForSelector('#_mail_component_57_57');
+});
+
+casper.then(function() {
+	this.clickLabel('写 信', 'span');
+	this.waitForSelector('.nui-btn-text');
+});
+
+casper.wait(800, function() {
+	this.sendKeys('.nui-editableAddr-ipt', yihai[0]);
+});
+
+casper.then(function() {
+	this.page.uploadFile('.O0', yihai[1]);
+	this.wait(12000);
+	this.clickLabel('群发单显', 'a');
+	this.click('.nui-mainBtn-hasIcon .nui-btn-text');
+});
+
+casper.wait(100, function() {
+	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + yihai[2] + '.png');
+	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供青海天峻义海能源煤炭经营有限公司)……');
+	n = n + 1;
+});
+
+//(专供国家电网青海省电力公司)新华每日舆情
+casper.thenOpen('http://mail.126.com/', function() {
+	this.waitForSelector('#_mail_component_57_57');
+});
+
+casper.then(function() {
+	this.clickLabel('写 信', 'span');
+	this.waitForSelector('.nui-btn-text');
+});
+
+casper.wait(800, function() {
+	this.sendKeys('.nui-editableAddr-ipt', guowang[0]);
+});
+
+casper.then(function() {
+	this.page.uploadFile('.O0', guowang[1]);
+	this.wait(12000);
+	this.clickLabel('群发单显', 'a');
+	this.click('.nui-mainBtn-hasIcon .nui-btn-text');
+});
+
+casper.wait(100, function() {
+	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + guowang[2] + '.png');
+	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供国家电网青海省电力公司)……');
 	n = n + 1;
 });
 
@@ -964,6 +1026,87 @@ casper.then(function() {
 casper.wait(100, function() {
 	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + tongde[2] + '.png');
 	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供同德县)……');
+	n = n + 1;
+});
+
+//(专供海北州)新华每日舆情
+casper.thenOpen('http://mail.126.com/', function() {
+	this.waitForSelector('#_mail_component_57_57');
+});
+
+casper.then(function() {
+	this.clickLabel('写 信', 'span');
+	this.waitForSelector('.nui-btn-text');
+});
+
+casper.wait(800, function() {
+	this.sendKeys('.nui-editableAddr-ipt', haibei[0]);
+});
+
+casper.then(function() {
+	this.page.uploadFile('.O0', haibei[1]);
+	this.wait(12000);
+	this.clickLabel('群发单显', 'a');
+	this.click('.nui-mainBtn-hasIcon .nui-btn-text');
+});
+
+casper.wait(100, function() {
+	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + haibei[2] + '.png');
+	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供海北州)……');
+	n = n + 1;
+});
+
+//(专供共和县)新华每日舆情
+casper.thenOpen('http://mail.126.com/', function() {
+	this.waitForSelector('#_mail_component_57_57');
+});
+
+casper.then(function() {
+	this.clickLabel('写 信', 'span');
+	this.waitForSelector('.nui-btn-text');
+});
+
+casper.wait(800, function() {
+	this.sendKeys('.nui-editableAddr-ipt', gonghe[0]);
+});
+
+casper.then(function() {
+	this.page.uploadFile('.O0', gonghe[1]);
+	this.wait(12000);
+	this.clickLabel('群发单显', 'a');
+	this.click('.nui-mainBtn-hasIcon .nui-btn-text');
+});
+
+casper.wait(100, function() {
+	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + gonghe[2] + '.png');
+	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供共和县)……');
+	n = n + 1;
+});
+
+//(专供贵德县)新华每日舆情
+casper.thenOpen('http://mail.126.com/', function() {
+	this.waitForSelector('#_mail_component_57_57');
+});
+
+casper.then(function() {
+	this.clickLabel('写 信', 'span');
+	this.waitForSelector('.nui-btn-text');
+});
+
+casper.wait(800, function() {
+	this.sendKeys('.nui-editableAddr-ipt', guide[0]);
+});
+
+casper.then(function() {
+	this.page.uploadFile('.O0', guide[1]);
+	this.wait(12000);
+	this.clickLabel('群发单显', 'a');
+	this.click('.nui-mainBtn-hasIcon .nui-btn-text');
+});
+
+casper.wait(100, function() {
+	this.capture('D:/Xinhuayq/' + '-' + Numformat(n) + '- ' + guide[2] + '.png');
+	this.echo('-' + Numformat(n) + '- ' + '已发送至(专供贵德县)……');
 	n = n + 1;
 });
 
